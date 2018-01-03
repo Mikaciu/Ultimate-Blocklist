@@ -1,2 +1,5 @@
 blocklist.txt
+blocklist_*.txt
+blocklist_*.gz
 venv/
+.idea/
