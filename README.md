@@ -25,7 +25,7 @@ make docker
 
 ### Reqs:
 
-* `Python 2.7.8`
+* `Python 3.5`
 
 ---
 
